@@ -1,0 +1,2 @@
+# working-implementation-of-mockito
+This is a simple maven project that implements different features of Mockito framework in simple, easy and understandable way. The project has been created for someone who wishes to understand how to use Mockito in their project. Mockito is an open source testing framework for Java released under the MIT License. The framework allows the creation of mock objects in automated unit tests for the purpose of test-driven development or behavior-driven development.
